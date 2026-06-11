@@ -1,0 +1,13 @@
+a = 23
+
+aaa = 43
+
+harrry = 34
+
+sameer = 45
+
+
+_sameer = 34
+
+# @sameer = 45 # This will give an error because variable names cannot start with @
+# s@meer = 45 # This will give an error because variable names cannot contain @
