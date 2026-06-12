@@ -1,0 +1,4 @@
+a = int(input("Enter number 1: " )) # This line prompts the user to enter a value and stores it in the variable 'a' as an integer.
+b = int(input("Enter number 2: ")) # This line prompts the user to enter another value and stores it in the variable 'b' as an integer.
+
+print("a is greater than b: " , a > b) # This line checks if 'a' is greater than 'b' and prints the result as a boolean value (True or False). For example, if the user enters 5 for 'a' and 3 for 'b', the output will be "a is greater than b: True". If the user enters 2 for 'a' and 4 for 'b', the output will be "a is greater than b: False".

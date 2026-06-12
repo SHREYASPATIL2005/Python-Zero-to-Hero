@@ -1,0 +1,5 @@
+a = int(input("Enter number 1: " )) # This line prompts the user to enter a value and stores it in the variable 'a' as an integer.
+
+print("The square of the number is: " , a ** 2) # This line calculates the square of 'a' by raising it to the power of 2 using the exponentiation operator (**) and prints the result. For example, if the user enters 4 for 'a', the output will be "The square of the number is: 16".
+print("The square of the number is: " , a*a) # This line calculates the square of 'a' by raising it to the power of 2 using the exponentiation operator (**) and prints the result. For example, if the user enters 4 for 'a', the output will be "The square of the number is: 16".
+#a^2 # This line calculates the square of 'a' using the bitwise XOR operator (^) instead of the exponentiation operator (**). This will not give the correct result for squaring a number. For example, if the user enters 4 for 'a', the output will be 6 instead of 16. To calculate the square correctly, we should use a**2 or a*a instead of a^2.

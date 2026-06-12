@@ -1,0 +1,2 @@
+a = input("Enter the value of a: ") # This line prompts the user to enter a value and stores it in the variable 'a' as a string.
+print(type(a)) # This line prints the data type of the variable 'a', which will be <class 'str'> since the input is stored as a string by default.
